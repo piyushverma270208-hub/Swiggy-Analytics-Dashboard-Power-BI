@@ -1,2 +1,6 @@
 # Swiggy-Analytics-Dashboard-Power-BI
-This repository contain an interactive Power BI dashboard tracking 4.83M in sales and 920K in profit to optimize food-delivery operations. 
+This repository contains a dynamic, end-to-end Swiggy Data Analytics Dashboard built using Microsoft Power BI Desktop. The project replicates realistic food-delivery operational data to analyze customer preferences, revenue streams, and market share across various restaurant chains and regions in India. It serves as a comprehensive tool for stakeholders to monitor sales performance, optimize promotional discounts, and evaluate payment method trends 
+Sum of Sales by Cuisine (Bar Chart): North Indian is the top-performing cuisine category, closely followed by Chinese, Pizza, Fast Food, Biryani, and South Indian.
+Sum of Sales by Payment Method (Donut Chart): Breaks down transactions across Net Banking, Debit Card, Cash on Delivery, Credit Card, and UPI.
+Sum of Sales by Restaurant Name (Pie Chart): Illustrates market share distribution among major chains like Subway, Burger King, KFC, Pizza Hut, Haldiram's, McDonald's, and Domino's.
+Sum of Sales and Sum of Profit by Month (Combo Line Chart): Tracks monthly performance variations throughout the year, featuring a prominent peak around June/July.Geographic Distribution (Map Visual & Filter): Features an interactive map visualization alongside a state-level slicer filtering data for Delhi, Gujarat, Karnataka, Maharashtra, Rajasthan, and Tamil Nadu.
